@@ -2,7 +2,7 @@
 """Module sum_list."""
 
 
-def sum_list(input_list: list) -> float:
+def sum_list(input_list: list[float]) -> float:
     """
     Takes a list of floats and returns their sum.
 
@@ -12,4 +12,4 @@ def sum_list(input_list: list) -> float:
     return:
         Sum of the input list as a float
     """
-    return sum(input_list)
+    return float(sum(input_list))
