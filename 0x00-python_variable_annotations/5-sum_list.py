@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+"""Module sum_list."""
+
 
 def sum_list(input_list: list) -> float:
     """

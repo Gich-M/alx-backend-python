@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+"""Module safety_get_value."""
 from typing import Any, Mapping, Union, TypeVar
 
 

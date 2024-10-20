@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+"""Module safe_first_element."""
 from typing import Sequence, Any, Union
 
 

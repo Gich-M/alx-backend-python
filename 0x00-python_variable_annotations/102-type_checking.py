@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+"""Module zoom_array."""
 from typing import List, Tuple
 
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+"""Module to floor numbers."""
 import math
 
 
